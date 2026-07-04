@@ -1,0 +1,98 @@
+toshkent katta va qadimiy shahar
+samarqand katta va qadimiy shahar
+buxoro katta va qadimiy shahar
+andijon katta va qadimiy shahar
+namangan katta va qadimiy shahar
+biz toshkent shahriga sayohat qildik
+biz samarqand shahriga sayohat qildik
+biz buxoro shahriga sayohat qildik
+biz andijon shahriga sayohat qildik
+biz namangan shahriga sayohat qildik
+toshkent shahrini ziyorat qildik
+samarqand shahrini ziyorat qildik
+buxoro shahrini ziyorat qildik
+andijon shahrini ziyorat qildik
+namangan shahrini ziyorat qildik
+men toshkent shahrida yashayman
+men samarqand shahrida yashayman
+men buxoro shahrida yashayman
+men andijon shahrida yashayman
+men namangan shahrida yashayman
+toshkent gozal shahar hisoblanadi
+samarqand gozal shahar hisoblanadi
+buxoro gozal shahar hisoblanadi
+andijon gozal shahar hisoblanadi
+namangan gozal shahar hisoblanadi
+yangi telefon bozorda paydo boldi
+yangi kompyuter bozorda paydo boldi
+yangi dastur bozorda paydo boldi
+yangi telefon bozorda sotildi
+yangi kompyuter bozorda sotildi
+yangi dastur bozorda sotildi
+men telefon sotib oldim
+men kompyuter sotib oldim
+men dastur sotib oldim
+bu telefon juda tez ishlaydi
+bu kompyuter juda tez ishlaydi
+bu dastur juda tez ishlaydi
+internet orqali telefon yangilandi
+internet orqali kompyuter yangilandi
+internet orqali dastur yangilandi
+telefon zamonaviy qurilma hisoblanadi
+kompyuter zamonaviy qurilma hisoblanadi
+dastur zamonaviy vosita hisoblanadi
+internet zamonaviy vosita hisoblanadi
+biz mazali osh tayyorladik
+biz mazali palov tayyorladik
+biz mazali somsa tayyorladik
+biz issiq choy tayyorladik
+mehmonlarga osh berildi
+mehmonlarga palov berildi
+mehmonlarga somsa berildi
+mehmonlarga choy berildi
+men osh yedim va xursand boldim
+men palov yedim va xursand boldim
+men somsa yedim va xursand boldim
+men choy ichdim va xursand boldim
+osh juda mazali taom ekan
+palov juda mazali taom ekan
+somsa juda mazali taom ekan
+choy issiq ichimlik hisoblanadi
+oilamiz osh pishirdi
+oilamiz palov pishirdi
+oilamiz somsa pishirdi
+bayramda osh tayyorlanadi
+bayramda palov tayyorlanadi
+bayramda somsa tayyorlanadi
+kitob bilim manbai hisoblanadi
+maktab bilim maskani hisoblanadi
+kitob oqish foydali mashgulot
+maktab yoshlarni tarbiyalaydi
+men kitob oqishni yaxshi koraman
+biz maktab hovlisida oynadik
+yangi kitob dokondan sotib olindi
+yangi telefon dokondan sotib olindi
+yangi kompyuter dokondan sotib olindi
+qadimiy kitob kutubxonada saqlanadi
+qadimiy buxoro shahar hisoblanadi
+qadimiy samarqand shahar hisoblanadi
+bolalar maktab darsiga keldi
+darslar maktab binosida otadi
+kitob javonda turibdi
+maktab yangi binoga kochdi
+toshkent poytaxt shahar hisoblanadi
+samarqand tarixiy shahar hisoblanadi
+buxoro tarixiy shahar hisoblanadi
+mazali osh dasturxonga qoyildi
+mazali palov dasturxonga qoyildi
+issiq choy dasturxonga qoyildi
+yangi dastur internet orqali tarqaldi
+yangi telefon internet orqali tanildi
+zamonaviy kompyuter ishlab chiqarildi
+zamonaviy telefon ishlab chiqarildi
+gozal toshkent kechasi chiroyli
+gozal samarqand kechasi chiroyli
+biz kitob magazinidan kitob oldik
+men maktab kutubxonasidan kitob oldim
+choy va somsa birga tortildi
+osh va palov bayramda pishiriladi

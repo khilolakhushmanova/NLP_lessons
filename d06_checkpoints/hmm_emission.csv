@@ -1,0 +1,5 @@
+state,word,prob
+NN,nlp,0.9
+NN,yozdi,0.1
+VB,nlp,0.1
+VB,yozdi,0.9

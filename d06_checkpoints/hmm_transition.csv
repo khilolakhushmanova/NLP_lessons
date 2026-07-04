@@ -1,0 +1,7 @@
+from,to,prob
+START,NN,0.7
+START,VB,0.3
+NN,NN,0.4
+NN,VB,0.6
+VB,NN,0.3
+VB,VB,0.7

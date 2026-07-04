@@ -1,0 +1,126 @@
+5	Mahsulot juda sifatli chiqdi, hammaga tavsiya qilaman.
+5	Tez yetkazib berishdi, juda mamnunman, rahmat.
+5	Narxi arzon, sifati esa zo'r, ajoyib xarid bo'ldi.
+5	Buyurtma vaqtida keldi, qadoqlash chiroyli edi.
+5	Telefon original, ishlashi tez, juda yaxshi mahsulot.
+5	Sotuvchi muloyim, savolimga tez javob berdi, rahmat.
+5	Kiyim o'lchami to'g'ri keldi, materiali mustahkam.
+5	Bu do'kondan yana xarid qilaman, hammasi a'lo darajada.
+5	Mahsulot rasmga to'liq mos, sifati kutganimdan yaxshi.
+5	Yetkazib berish bepul edi, juda qulay, tavsiya qilaman.
+4	Mahsulot yaxshi, lekin yetkazish biroz sekin bo'ldi.
+4	Sifati zo'r, qadoqlash ham yaxshi, mamnunman.
+4	Narxiga arziydi, ishlatishga qulay, tavsiya qilaman.
+4	Tovar tez keldi, sifati yaxshi, rahmat sotuvchiga.
+4	Yaxshi mahsulot, kichik kamchiliklari bor, lekin arziydi.
+5	Ajoyib sifat, ranglari chiroyli, juda yoqdi.
+5	Hammasi joyida, tez va sifatli, katta rahmat.
+5	Quvvati uzoq turadi, juda mamnun bo'ldim, tavsiya qilaman.
+5	Original mahsulot, ishlashi a'lo, narxi ham arzon.
+4	Yetkazib berish tez, mahsulot sifatli, yaxshi xarid.
+5	Bolam uchun oldim, juda yoqdi, sifati mustahkam.
+5	Qadoqlash ehtiyotkor, mahsulot butun keldi, rahmat.
+4	Sifati yaxshi, narxi o'rtacha, umuman mamnunman.
+5	Do'kon ishonchli, mahsulot original, tavsiya qilaman.
+5	Tez va muammosiz yetkazishdi, hammasi zo'r.
+4	Mahsulot kutganimdek chiqdi, sifati yaxshi, rahmat.
+5	Juda sifatli material, tikuvi mustahkam, ajoyib.
+5	Narxi arzon bo'lsa ham sifati baland, juda yoqdi.
+4	Yaxshi ishlaydi, qadoqlash ham yaxshi, tavsiya qilaman.
+5	Sotuvchiga rahmat, tez yuborildi, mahsulot a'lo.
+5	Hamma narsa joyida keldi, sifatidan mamnunman.
+5	Rasmdagidek chiroyli, sifati zo'r, qayta olaman.
+4	Mahsulot yaxshi, faqat rangi biroz boshqacha, lekin yoqdi.
+5	Juda tez yetkazib berishdi, qulay xizmat, rahmat.
+5	Sifati a'lo, narxi arzon, hammaga tavsiya qilaman.
+4	Yaxshi tovar, ishlatishga oson, mamnun bo'ldim.
+5	Original va sifatli, yetkazish tez, juda yoqdi.
+5	Qadoqlash mustahkam edi, mahsulot butun, rahmat.
+4	Narxiga yarasha sifat, umuman olganda yaxshi.
+5	Ajoyib xarid, tez keldi, sotuvchi juda muloyim.
+5	Mahsulot zo'r chiqdi, oilam mamnun, tavsiya qilaman.
+4	Sifati yaxshi, yetkazish o'rtacha, lekin arziydi.
+5	Buyurtma aniq va tez keldi, hammasi a'lo darajada.
+5	Material yumshoq va sifatli, juda yoqdi, rahmat.
+4	Yaxshi mahsulot, narxi ham maqul, tavsiya qilaman.
+5	Tez yetkazishdi, sifati kutganimdan ham yaxshi.
+5	Do'konga ishonsa bo'ladi, mahsulot original, mamnunman.
+4	Sifati yaxshi, qadoqlash ozgina ezilgan, lekin tovar butun.
+5	Juda chiroyli va sifatli, hammaga tavsiya qilaman.
+5	Narxi arzon, ishlashi tez, ajoyib mahsulot, rahmat.
+4	Yaxshi xarid bo'ldi, yetkazib berish ham tez edi.
+5	Sotuvchi javobgar, mahsulot sifatli, juda mamnunman.
+5	Mahsulot a'lo, qadoqlash zo'r, qayta xarid qilaman.
+4	Umuman yaxshi, kichik nuqsoni bor, lekin narxiga arziydi.
+5	Tez va ishonchli, sifati baland, tavsiya qilaman.
+5	Hammasi mukammal keldi, juda yoqdi, katta rahmat.
+4	Mahsulot yaxshi ishlaydi, sifatidan mamnunman.
+5	Original, sifatli va arzon, ajoyib xarid bo'ldi.
+5	Yetkazish juda tez, mahsulot butun va sifatli, rahmat.
+4	Yaxshi tovar, ranglari chiroyli, tavsiya qilaman.
+1	Mahsulot sifatsiz chiqdi, pulim behuda ketdi.
+1	Juda sekin yetkazishdi, bir hafta kutdim, afsus.
+1	Tovar sindi holda keldi, qadoqlash yomon edi.
+2	Sifati past, rasmga umuman o'xshamaydi, xafa bo'ldim.
+1	Aldashdi, original emas, soxta mahsulot keldi.
+1	Buyurtma noto'g'ri keldi, boshqa narsa yuborishdi.
+2	Yomon sifat, bir kun ishlab buzildi, afsus qilaman.
+1	Pulni oldi, lekin mahsulot kelmadi, juda yomon do'kon.
+1	Material juda yupqa, tez yirtildi, tavsiya qilmayman.
+2	Sekin xizmat, sotuvchi javob bermadi, xafaman.
+1	Mahsulot ishlamadi, qaytarib yuborishga majbur bo'ldim.
+1	Sifatsiz va qimmat, umuman arzimaydi, afsus.
+2	Rangi boshqacha keldi, o'lchami ham noto'g'ri, yoqmadi.
+1	Buzilgan mahsulot keldi, pulimni qaytarishmadi.
+1	Juda yomon tajriba, boshqa bu do'kondan olmayman.
+2	Sifati past, narxiga arzimaydi, xafa bo'ldim.
+1	Yetkazib berish juda kechikdi, mahsulot ham sifatsiz.
+1	Soxta tovar, original deb aldashdi, pulim ketdi.
+2	Tikuvi yomon, bir yuvishda buzildi, tavsiya qilmayman.
+1	Mahsulot umuman ishlamadi, vaqtim va pulim ketdi.
+1	Qadoqlash yo'q edi, tovar shikastlangan holda keldi.
+2	Sifatsiz material, narxi qimmat, umuman yoqmadi.
+1	Aldovchi do'kon, mahsulot rasmga mos emas, afsus.
+1	Bir hafta kutdim, oxiri buyurtma bekor qilindi, yomon.
+2	Yomon sifat, ranglari o'chib ketdi, xafaman.
+1	Pulni to'ladim, lekin noto'g'ri mahsulot keldi.
+1	Juda past sifat, tez sindi, tavsiya qilmayman.
+2	Sekin yetkazishdi, mahsulot ham kutganimdek emas.
+1	Soxta va sifatsiz, pulim behuda ketdi, afsus qilaman.
+1	Mahsulot ishlamay qoldi, qaytarish ham qiyin bo'ldi.
+2	Materiali arzon ko'rinadi, narxiga arzimaydi, yoqmadi.
+1	Buyurtma yo'qolib ketdi, sotuvchi javob bermadi, yomon.
+1	Tovar sinic holda keldi, qadoqlash umuman yomon edi.
+2	Sifati past, rasmga o'xshamaydi, xafa bo'ldim, afsus.
+1	Aldashdi, original emas ekan, pulimni qaytarishmadi.
+1	Juda yomon mahsulot, bir martada buzildi, tavsiya qilmayman.
+2	Yetkazish sekin, mahsulot ham sifatsiz, mamnun emasman.
+1	Soxta mahsulot, do'kon javobgar emas, juda yomon tajriba.
+1	Pulim ketdi, mahsulot esa ishlamadi, afsus qilaman.
+2	Sifati past, qadoqlash yomon, narxiga arzimaydi.
+1	Noto'g'ri o'lcham keldi, qaytarish uzoq davom etdi, yomon.
+1	Mahsulot yirtilgan holda keldi, umuman sifatsiz.
+2	Sekin va yomon xizmat, boshqa bu yerdan olmayman.
+1	Original deb aldashdi, soxta tovar keldi, pulim behuda.
+1	Juda sifatsiz, tez buzildi, hech kimga tavsiya qilmayman.
+2	Rangi va o'lchami noto'g'ri, mahsulot yoqmadi, xafaman.
+1	Buyurtma kelmadi, pulni ham qaytarishmadi, yomon do'kon.
+1	Tovar shikastlangan, qadoqlash yo'q edi, afsus qilaman.
+2	Sifati past bo'lsa ham narxi qimmat, umuman yoqmadi.
+1	Mahsulot ishlamadi, vaqtimni behuda sarfladim, yomon.
+1	Aldovchi sotuvchi, mahsulot rasmga mos emas, pulim ketdi.
+2	Sekin yetkazishdi, sifati ham past, mamnun emasman.
+1	Soxta va sifatsiz mahsulot, tavsiya qilmayman, afsus.
+1	Buzilgan tovar keldi, qaytarish juda qiyin bo'ldi, yomon.
+2	Materiali yupqa, tez yirtildi, narxiga arzimaydi.
+1	Pulni oldi, mahsulot esa kelmadi, juda yomon tajriba.
+1	Juda past sifat, qadoqlash yomon, umuman tavsiya qilmayman.
+2	Yomon sifat, ranglari o'chdi, xafa bo'ldim, afsus.
+3	Mahsulot o'rtacha, na yaxshi na yomon, oddiy.
+3	Narxiga yarasha, alohida ajralib turadigan joyi yo'q.
+3	Sifati normal, lekin yetkazish biroz sekin edi.
+3	Oddiy mahsulot, kutganimdan ortiq ham kam ham emas.
+3	Bir amallab ishlaydi, ajoyib ham emas, yomon ham emas.
+3	O'rtacha sifat, narxi ham o'rtacha, fikrim neytral.
+3	Tovar keldi, lekin men kutgan darajada emas, oddiy.
+3	Na maqtayman na koyiyman, oddiygina mahsulot ekan.
