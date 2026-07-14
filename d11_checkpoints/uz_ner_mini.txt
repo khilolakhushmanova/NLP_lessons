@@ -1,0 +1,205 @@
+Malika	B-PER
+Toshkentda	B-LOC
+ishlaydi	O
+.	O
+
+Akmal	B-PER
+Samarqandda	B-LOC
+yashaydi	O
+.	O
+
+Dilnoza	B-PER
+Buxoro	B-LOC
+shahriga	I-LOC
+bordi	O
+.	O
+
+Bobur	B-PER
+Andijonda	B-LOC
+tugildi	O
+.	O
+
+Nodira	B-PER
+Milliy	B-ORG
+universitetda	I-ORG
+oqiydi	O
+.	O
+
+Aziz	B-PER
+Markaziy	B-ORG
+bankda	I-ORG
+ishlaydi	O
+.	O
+
+Malika	B-PER
+va	O
+Akmal	B-PER
+Xivaga	B-LOC
+sayohat	O
+qilishdi	O
+.	O
+
+Navoiy	B-LOC
+viloyatida	I-LOC
+yangi	O
+korxona	B-ORG
+ochildi	O
+.	O
+
+Fargona	B-LOC
+shahrida	I-LOC
+Dilnoza	B-PER
+yashaydi	O
+.	O
+
+Bobur	B-PER
+Samarqand	B-LOC
+universitetiga	I-LOC
+kirdi	O
+.	O
+
+vazirlik	B-ORG
+yangi	O
+qaror	O
+qabul	O
+qildi	O
+.	O
+
+Aziz	B-PER
+Toshkent	B-LOC
+shahrida	I-LOC
+tugildi	O
+.	O
+
+Nodira	B-PER
+Buxoroda	B-LOC
+dars	O
+beradi	O
+.	O
+
+Malika	B-PER
+kompaniyada	B-ORG
+muhandis	O
+boldi	O
+.	O
+
+Akmal	B-PER
+Andijon	B-LOC
+viloyatidan	I-LOC
+keldi	O
+.	O
+
+Dilnoza	B-PER
+Navoiyda	B-LOC
+shifokor	O
+.	O
+
+biz	O
+Samarqandga	B-LOC
+bordik	O
+.	O
+
+Bobur	B-PER
+banktda	B-ORG
+hisob	O
+ochdi	O
+.	O
+
+Toshkent	B-LOC
+katta	O
+shahar	O
+.	O
+
+Milliy	B-ORG
+kutubxona	I-ORG
+yangilandi	O
+.	O
+
+Aziz	B-PER
+va	O
+Nodira	B-PER
+Xiva	B-LOC
+shahrini	I-LOC
+kordilar	O
+.	O
+
+Malika	B-PER
+universitetda	B-ORG
+talim	O
+oldi	O
+.	O
+
+Akmal	B-PER
+Fargonada	B-LOC
+ishladi	O
+.	O
+
+Dilnoza	B-PER
+Buxoro	B-LOC
+shahrida	I-LOC
+tugildi	O
+.	O
+
+vazirlikda	B-ORG
+yigilish	O
+otdi	O
+.	O
+
+Bobur	B-PER
+Toshkentdan	B-LOC
+Samarqandga	B-LOC
+ketdi	O
+.	O
+
+Nodira	B-PER
+korxonada	B-ORG
+direktor	O
+.	O
+
+Aziz	B-PER
+Andijonda	B-LOC
+maktabni	O
+bitirdi	O
+.	O
+
+Malika	B-PER
+Markaziy	B-ORG
+bankka	I-ORG
+ishga	O
+kirdi	O
+.	O
+
+biz	O
+Navoiy	B-LOC
+shahriga	I-LOC
+bordik	O
+.	O
+
+Dilnoza	B-PER
+va	O
+Bobur	B-PER
+Toshkentda	B-LOC
+uchrashdilar	O
+.	O
+
+Akmal	B-PER
+kompaniyani	B-ORG
+boshqaradi	O
+.	O
+
+Nodira	B-PER
+Samarqandda	B-LOC
+yashaydi	O
+.	O
+
+Aziz	B-PER
+Xivada	B-LOC
+mehmon	O
+boldi	O
+.	O
+
+Malika	B-PER
+Fargona	B-LOC
+viloyatida	I-LOC
+tugildi	O
+.	O
