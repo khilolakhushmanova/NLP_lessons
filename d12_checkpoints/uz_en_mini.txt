@@ -1,0 +1,40 @@
+men kitob o'qidim	i read a book
+men non yedim	i ate bread
+men suv ichdim	i drank water
+u kitob o'qidi	he read a book
+u non yedi	he ate bread
+u suv ichdi	he drank water
+biz kitob o'qidik	we read a book
+biz non yedik	we ate bread
+biz suv ichdik	we drank water
+men maktabga bordim	i went to school
+u maktabga bordi	he went to school
+biz maktabga bordik	we went to school
+men uyga keldim	i came home
+u uyga keldi	he came home
+biz uyga keldik	we came home
+men choy ichdim	i drank tea
+u choy ichdi	he drank tea
+men olma yedim	i ate an apple
+u olma yedi	he ate an apple
+biz olma yedik	we ate an apple
+men xat yozdim	i wrote a letter
+u xat yozdi	he wrote a letter
+biz xat yozdik	we wrote a letter
+men ishga bordim	i went to work
+u ishga bordi	he went to work
+men kino kordim	i watched a movie
+u kino kordi	he watched a movie
+biz kino kordik	we watched a movie
+men qosiq oldim	i took a spoon
+u qosiq oldi	he took a spoon
+men eshik ochdim	i opened a door
+u eshik ochdi	he opened a door
+biz eshik ochdik	we opened a door
+men dars qildim	i did homework
+u dars qildi	he did homework
+biz dars qildik	we did homework
+men sut ichdim	i drank milk
+u sut ichdi	he drank milk
+men gul oldim	i took a flower
+u gul oldi	he took a flower
