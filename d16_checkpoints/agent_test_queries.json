@@ -1,0 +1,18 @@
+[
+  {
+    "query": "Bu mahsulot juda yaxshi!",
+    "expected_tool": "sentiment_classify"
+  },
+  {
+    "query": "NLP haqida ma'lumot toping.",
+    "expected_tool": "retrieve_docs"
+  },
+  {
+    "query": "Ushbu matnni qisqa xulosa qiling.",
+    "expected_tool": "summarize"
+  },
+  {
+    "query": "Matndagi shaxslar kimlar?",
+    "expected_tool": "ner_extract"
+  }
+]
